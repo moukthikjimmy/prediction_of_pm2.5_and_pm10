@@ -1,1 +1,2 @@
-# prediction_of_pm2.5_and_pm10
+# PREDICTION_OF_PM2.5_AND_PM10_IN_OPENCAST_MINES
+This project employs RandomForestRegressor from scikit-learn to predict PM 10 and PM 2.5 concentrations based on mining and meteorological data. It showcases ML's role in environmental monitoring, with focus on data preprocessing, model training, evaluation, and interpretation, providing insights for programmers into effective ML implementation for pollution prediction.
